@@ -1,4 +1,4 @@
-#To insert missing data on line 6 :
+# To insert missing data on line 6 :
 UPDATE employees
 SET hourly_pay = 10.50,
 	hire_date = "2023-01-07"
